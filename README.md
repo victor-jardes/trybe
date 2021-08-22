@@ -1,3 +1,6 @@
+# Essa branch vai ser a principal no final do curso
+# Verifique a branch:alfa
+
 # Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Victor Jardes](https://www.linkedin.com/in/victor-jardes-71201421a/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
