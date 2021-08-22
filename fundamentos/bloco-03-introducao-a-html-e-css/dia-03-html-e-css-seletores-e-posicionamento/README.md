@@ -1,4 +1,4 @@
-# IEDEIA DE EX: *Layout e Box Model no seu Portfólio Web*
+# IDEIA DE EX: *Layout e Box Model no seu Portfólio Web*
 
 ## Você será capaz de:
 - Compreender como funciona o Box Model do CSS e como os elementos da página se relacionam visualmente;
