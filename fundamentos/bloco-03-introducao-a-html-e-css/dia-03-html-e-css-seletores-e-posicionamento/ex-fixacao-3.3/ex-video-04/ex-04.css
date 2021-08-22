@@ -1,0 +1,33 @@
+ol li {
+    background-color: yellow;
+}
+ol li:nth-child(2n) {
+    color: rgb(9, 223, 20);
+}
+ol li:nth-child(2n+1){
+    text-transform: uppercase;
+}
+.header {
+    font-weight: 40px;
+    border: 1px black solid;
+}
+h1, h2,h3 {
+    color: red;
+}
+
+li {
+        font-size: 20px;
+
+}
+
+.li-transforme {
+    font-weight: bolder;
+}
+
+.cor-rosa {
+    background-color: pink;
+}
+.cor-azul {
+    color: blue;
+}
+
