@@ -1,0 +1,45 @@
+div:hover {
+    background-color: pink;
+}
+
+div.pri:hover {
+    background-color: red;
+}
+div.sec:hover{
+    background-color: orange;
+}
+div.com:hover{
+    background-color: grey;
+}
+div.esc:hover {
+    background-color: brown;
+}
+div.cla:hover {
+    background-color: greenyellow;
+    
+}
+
+div.pri > h3 {
+    font-style: italic;
+}
+
+div.sec > h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.com > h3 {
+    font-style:italic;
+}
+div.esc > h3 {
+    font-weight: lighter;
+}
+div.cla > h3 {
+    font-style: italic;
+}
+
+div.com {
+    padding: 50px;
+
+}
+
+
