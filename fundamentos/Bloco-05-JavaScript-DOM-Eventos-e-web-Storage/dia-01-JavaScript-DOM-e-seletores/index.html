@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5.1-DOM e Storage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header> 
+        <h1 class="title">Exercício 5.1 - JavaEscripito </h1>
+      </header>    
+      <main class="main-content">
+        <section class="center-content">
+          <p>Texto padrão do nosso site</p>
+          <p>-----</p>
+          <p>Trybe</p>
+        </section>
+      </main>
+
+      <script>
+          //EX-01
+          function futuro(){
+            let txtfuturo= document.getElementsByTagName("p")[1]
+            txtfuturo.innerHTML = "estabilizado finaceramente"
+                }
+                futuro()
+          
+        // EX-02
+        function amareloPraVerde(){
+            let mudandoCor = document.getElementsByClassName("main-content")[0]
+            mudandoCor.style.background = "rgb(76,164,109)"    
+        }
+        amareloPraVerde()
+        // EX-03
+        function vermelhoraPraBranco(){
+            let colorBranco = document.getElementsByClassName("center-content")[0]
+            colorBranco.style.background = "white"
+        }
+        vermelhoPraPraBranco()
+
+        // EX-04
+        function correctTitle(){
+            let correct = document.getElementsByClassName("title")[0]
+            correct.innerHTML = "Exercício 5.1 - JavaScript"
+        }
+        correctTitle()
+
+        //EX-05
+        function upperCase(){
+            let txtCase = document.getElementsByTagName("p")[1]
+            txtCase.innerHTML = txtCase.innerHTML.toUpperCase()
+        }
+        upperCase()
+
+        //Ex-06
+        function tagP(){
+            let viewParagraph = document.getElementsByTagName("p")
+            for(let index = 0; index < viewParagraph.length; index += 1){
+                console.log(viewParagraph[index].innerHTML)
+            }
+        }
+       
+      </script>   
+</body>
+</html>
