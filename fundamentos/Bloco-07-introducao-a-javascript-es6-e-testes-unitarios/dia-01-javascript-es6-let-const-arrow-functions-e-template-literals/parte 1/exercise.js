@@ -1,4 +1,4 @@
-// Copie o código abaixo e faça uma função que retorne o array oddsAndEvens em ordem crescente.
+// faça uma função que retorne o array oddsAndEvens em ordem crescente.
 
 // Bônus (opcional): tente fazer o mesmo exercício utilizando o método array.sort() . Spoiler: É possível realizar uma função que ordene qualquer array de números.
 
