@@ -7,6 +7,8 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
+*Este README esta com a grade aparti de um certo ponto desatualizada, estou atualizando conforme vou passando pelos blocos e dias*
+
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: Introdução - Unix & Shell
@@ -92,16 +94,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 11-2: _formulários no React_
 - [x] 11-3: _[Projeto - Tryunfo]()_
 
-##### Bloco 12: React
+##### Bloco 12: Ciclo de Vida de Componentes e React Router - React
 
-- [ ] 13-1 _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-1 _Ciclo de vida de componentes em React_
+- [x] 13-3: _React Router_
+- [x] 13-4: _[Projeto - TrybeTunes]()_
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-1: _Metodologias Ágeis_
+- [x] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes em React
 
