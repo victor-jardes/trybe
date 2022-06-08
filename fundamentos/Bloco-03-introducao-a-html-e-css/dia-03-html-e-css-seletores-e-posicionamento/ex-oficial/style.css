@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(79, 245, 217, 0.404);
+}
+.name{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: italic;
+}
+.bio {
+    font-family: monospace;
+    margin-left: 40px;
+}
+
+.port {
+    background-color: grey;
+}
+
+.li-2 {
+    font-size: 40px;
+}
+.li-3 , .li-1 {
+    font-size: 50px;
+    font-style: italic;
+    color: rgba(255, 187, 124, 0.904);
+
+}
+
+.bio > strong {
+    color: hotpink;
+}
+div.foto {
+    display: inline-block;
+    padding: 13px;
+    background-color: black;
+    border: 10px;
+    border-style: double;
+    border-color: red;
+    border-radius: 15px;
+}
+div.bio-1 {
+    display: inline-block;
+    text-align: inherit;
+    
+}
+.name{
+    text-align: center;
+}
