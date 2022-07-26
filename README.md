@@ -211,32 +211,32 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 
-- [ ] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [x] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
 
 ##### Bloco 29: Introdução ao MongoDB
 
-- [ ] 29-1: _Introdução - NoSQL_
-- [ ] 29-1: _MongoDB - Introdução_
-- [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _Operadores de consulta_
-- [ ] 29-4: _Updates Simples_
-- [ ] 29-5: _Updates Complexos - Arrays_
-- [ ] 29-6: _[Projeto - Commerce]()_
+- [x] 29-1: _Introdução - NoSQL_
+- [x] 29-1: _MongoDB - Introdução_
+- [x] 29-2: _Filter Operators_
+- [x] 29-3: _Operadores de consulta_
+- [x] 29-4: _Updates Simples_
+- [x] 29-5: _Updates Complexos - Arrays_
+- [x] 29-6: _[Projeto - Commerce]()_
 
 ##### Bloco 30: MongoDB com Node.js e POO 
 
-- [ ] 30-1: MongoDB e arquitetura MSC
-- [ ] 30-2: MongoDB e POO
-- [ ] 30-3: _[Projeto - Car Shop]()_
+- [x] 30-1: MongoDB e arquitetura MSC
+- [x] 30-2: MongoDB e POO
+- [x] 30-3: _[Projeto - Car Shop]()_
 
 ##### Bloco 31: Projeto - App de Delivery
 
-- [ ] 31-1: _[Projeto - App de Delivery]()_
+- [x] 31-1: _[Projeto - App de Delivery]()_
 
 ##### Bloco 32: MasterClass - VPS, CI/CD
 
 - [ ] 32-1: _Dia 1 - VPS_
-- [x] 32-2: _Dia 2_
+- [ ] 32-2: _Dia 2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
