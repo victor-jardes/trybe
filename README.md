@@ -235,52 +235,52 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 32: MasterClass - VPS, CI/CD
 
-- [ ] 32-1: _Dia 1 - VPS_
-- [ ] 32-2: _Dia 2_
+- [x] 32-1: _Dia 1 - VPS_
+- [x] 32-2: _Dia 2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 33: Introdução à Python
 
-- [ ] 33-1: _Introdução - Ciência da Computação_
-- [ ] 33-1: _Aprendendo Python_
-- [ ] 33-2: _Entrada e Saída de Dados_
-- [ ] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights]()_
+- [x] 33-1: _Introdução - Ciência da Computação_
+- [x] 33-1: _Aprendendo Python_
+- [x] 33-2: _Entrada e Saída de Dados_
+- [x] 33-3: _Testes_
+- [x] 33-4: _[Projeto - Job Insights]()_
 
 ##### Bloco 34: Padrões de Projeto
 
-- [ ] 34-1: _P.O.O em Python_
-- [ ] 34-2: _Padrões - Iterator, Adapter, Strategy_
-- [ ] 34-3: _Padrões - Decorator, Observer, Factory_
-- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [x] 34-1: _P.O.O em Python_
+- [x] 34-2: _Padrões - Iterator, Adapter, Strategy_
+- [x] 34-3: _Padrões - Decorator, Observer, Factory_
+- [x] 34-4: _[Projeto - Relatórios de Estoque]()_
  
 ##### Bloco 35: Redes e Raspagem de Dados
 
-- [ ] 35-1: _Arquitetura de redes, ferramentas e segurança_
-- [ ] 35-2: _Raspagem de Dados_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Tech news]()_
+- [x] 35-1: _Arquitetura de redes, ferramentas e segurança_
+- [x] 35-2: _Raspagem de Dados_
+- [x] 35-3: _Redes de computadores, ferramentas e segurança_
+- [x] 35-4: _[Projeto - Tech news]()_
 
 ##### Bloco 36: Algoritmos
 
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4: _[Projeto - Algoritmos]()_
+- [x] 36-1: _Complexidade de Algoritmos_
+- [x] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [x] 36-3: _Algoritmos de ordenação e busca_
+- [x] 36-4: _[Projeto - Algoritmos]()_
 
 ##### Bloco 37: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
-- [ ] 37-1: _Arquitetura de Computadores_
-- [ ] 37-2: _Arrays_
-- [ ] 37-3: _Nó e Listas Encadeadas_
-- [ ] 37-4: _Pilhas e Filas_
-- [ ] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
+- [x] 37-1: _Arquitetura de Computadores_
+- [x] 37-2: _Arrays_
+- [x] 37-3: _Nó e Listas Encadeadas_
+- [x] 37-4: _Pilhas e Filas_
+- [x] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
 
 ##### Bloco 38: Estrutura de Dados II: Hashmaps e Sets
 
-- [ ] 38-1: _Hashmap e Dict_
-- [ ] 38-2: _Set_
-- [ ] 38-3: _[Projeto - Restaurant Orders]()_
+- [x] 38-1: _Hashmap e Dict_
+- [x] 38-2: _Set_
+- [x] 38-3: _[Projeto - Restaurant Orders]()_
 
 # [...]
